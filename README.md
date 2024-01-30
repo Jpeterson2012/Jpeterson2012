@@ -1,9 +1,10 @@
 ### Hello World!
 ## About Me 
 - 👋 My name is Jesse Peterson
-- 🔭 I’m currently working on an airbnb clone
-- 🌱 I’m currently learning C# and .NET
-- 📫 How to reach me: zerogravity124@gmail.com
+- 👋 I'm a MSCS candidate at Georgia Institute of Technology
+- 🔭 I’m currently working on a Power BI dashboard
+- 🌱 I’m currently learning NumPy, Pandas, and Power BI
+- 📫 How to reach me: message me thru Linkedin or via email: zerogravity124@gmail.com
 
 
 <br>
@@ -17,6 +18,7 @@
 
   
  <div>
+    <img src="languages/python.png" height="40px">
     <img src="languages/c++.png" height="40px">
     <img src="languages/java.png" height="40px">
     <img src="languages/typescript.png" height="40px">
