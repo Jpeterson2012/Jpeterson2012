@@ -2,9 +2,9 @@
 ## About Me 
 - 👋 My name is Jesse Peterson
 - 👋 I'm a MSCS candidate at Georgia Institute of Technology
-- 🔭 I’m currently working on a Power BI dashboard
+- 🔭 I’m currently working on a Spotify music project
 - 🌱 I’m currently learning NumPy, Pandas, and Power BI
-- 📫 How to reach me: message me thru Linkedin or via email: zerogravity124@gmail.com
+- 📫 How to reach me: message me thru Linkedin or via email: jesse@jmpeterson.dev
 
 
 <br>
