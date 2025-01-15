@@ -2,9 +2,9 @@
 ## About Me 
 - 👋 My name is Jesse Peterson
 - 👋 I'm a MSCS candidate at Georgia Institute of Technology
-- 🔭 I’m currently working on a Power BI dashboard
+- 🔭 I’m currently working on a Spotify music project
 - 🌱 I’m currently learning NumPy, Pandas, and Power BI
-- 📫 How to reach me: message me thru Linkedin or via email: zerogravity124@gmail.com
+- 📫 How to reach me: message me thru Linkedin or via email: jesse@jmpeterson.dev
 
 
 <br>
@@ -19,14 +19,21 @@
   
  <div>
     <img src="languages/python.png" height="40px">
+    <img src="languages/pandas.png" height="34px">
+    <img src="languages/numpy.png" height="34px">
     <img src="languages/c++.png" height="40px">
     <img src="languages/java.png" height="40px">
     <img src="languages/typescript.png" height="40px">
     <img src="languages/R.png" height="40px">
     <img src="languages/springboot.png" height="40px">
     <img src="languages/angular.png" height="40px">
+    <img src="languages/react.png" height="40px">
+    <img src="languages/redux.svg" height="40px">
+    <img src="languages/express.png" height="40px">
+    <img src="languages/nodejs.png" height="40px">
     <img src="languages/mysqllogo.png" height="45px">
     <img src="languages/bootstrap.png" height="34px">
+    <img src="languages/js.png" height="34px">
     <img src="languages/css.png" height="40px">
     <img src="languages/html.png" height="40px">
     <img src="languages/docker.png" height="41px">
