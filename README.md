@@ -19,8 +19,8 @@
   
  <div>
     <img src="languages/python.png" height="40px">
-    <img src="languages/pandas.png" height="34px">
-    <img src="languages/numpy.png" height="34px">
+    <img src="languages/pandas3.png" height="44px">
+    <img src="languages/numpy.svg" height="44px">
     <img src="languages/c++.png" height="40px">
     <img src="languages/java.png" height="40px">
     <img src="languages/typescript.png" height="40px">
@@ -36,6 +36,6 @@
     <img src="languages/js.png" height="34px">
     <img src="languages/css.png" height="40px">
     <img src="languages/html.png" height="40px">
-    <img src="languages/docker.png" height="41px">
+    <img style="height: 41px; margin-top: 20px;" src="languages/docker.png">
 </div>
             
