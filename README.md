@@ -36,6 +36,6 @@
     <img src="languages/js.png" height="34px">
     <img src="languages/css.png" height="40px">
     <img src="languages/html.png" height="40px">
-    <img style="height: 41px; margin-top: 20px;" src="languages/docker.png">
+    <img  src="languages/docker.png" height="34px">
 </div>
             
