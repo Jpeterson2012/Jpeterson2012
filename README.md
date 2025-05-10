@@ -17,7 +17,7 @@
 
 
   
- <div>
+ <div> 
     <img src="languages/python.png" height="40px">
     <img src="languages/pandas3.png" height="44px">
     <img src="languages/numpy.svg" height="44px">
@@ -34,8 +34,7 @@
     <img src="languages/mysqllogo.png" height="45px">
     <img src="languages/bootstrap.png" height="34px">
     <img src="languages/js.png" height="34px">
-    <img src="languages/css.png" height="40px" padding="0" margin="0">
-    <img src="languages/html.png" height="40px" padding="0" margin="0">
-    <!-- <img  src="languages/docker.png" height="34px"> -->
+    <img src="languages/css2.png" height="40px" >
+    <img src="languages/html.png" height="40px">            
 </div>
             
